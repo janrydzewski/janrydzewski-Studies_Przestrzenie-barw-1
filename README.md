@@ -1,16 +1,7 @@
-# project_2
+# Przestrzenie barw #1 
 
-A new Flutter project.
+To zadanie zawiera Color Picker napisany we Flutterze
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/e1074884-f7c2-45ed-a441-49a563656ebb
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
